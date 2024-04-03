@@ -1,3 +1,6 @@
+# Why did I fork AWS's repository?
+It was forked to create a PR for improvement to documentation. The PR is here - https://github.com/awslabs/emr-dynamodb-connector/pull/195
+
 # emr-dynamodb-connector
 **Access data stored in Amazon DynamoDB with Apache Hadoop, Apache Hive, and Apache Spark**
 
